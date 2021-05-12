@@ -10,5 +10,5 @@ Html & Css
 
 O que pretendo utilizar?
 
-JavaScript
-Framework Django com o modelo MVC.
+Javascript
+Framework Django com Python ou ASP .Net com C# no modelo MVC.(Estou estudando ambas as plataformas).
