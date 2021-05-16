@@ -1,14 +1,14 @@
-# Portfolio
+# Portfolio_Teste
 
 
-Acompanhe o desenvolvimento do meu portfólio (:
-
-
-Tecnologias utilizadas até o momento:
+Tecnologias utilizadas:
 
 Html & Css
 
-O que pretendo utilizar?
+Esta foi uma das primeiras páginas HTML que construí. Como estava no início do aprendizado, o código não possuí boas práticas, identação correta, etc.
 
-Javascript,
-Framework Django com Python no modelo MVT ou ASP .Net com C# no modelo MVC.(Estou estudando ambas as plataformas pois gosto de ambas as linguagens).
+Este projeto está sendo desligado e continuará armazenado. 
+
+O projeto Oficial do meu Portfólio continuará no repositório "Portfolio", onde utilizo Next.js com Node & React. 
+
+O domínio já está disponível em: guivargas.com 
