@@ -5,8 +5,11 @@ Tecnologias utilizadas:
 
 Html & Css
 
-Esta foi uma das primeiras páginas HTML que construí. Como estava no início do aprendizado, o código não possuí boas práticas, identação correta, etc.
+v1.0 - Esta foi uma das primeiras páginas HTML que construí. Como estava no início do aprendizado, o código não possuí boas práticas, identação correta, etc.
 
-O projeto Oficial do meu Portfólio continuará no repositório "Portfolio", onde utilizo Next.js & React. 
+v2.0 - Melhorias em relação a boas práticas, identação e estruturação do HTML.
 
-O domínio já está disponível em: guivargas.com 
+V2.1 - Estou tornando o header e o banner responsívos antes de incluir projetos com a utilização de JavaScript e banco de dados.
+
+A ideia principal do projeto, a princípio, é desenvolver o portfólio no framework Next.js. O domínio já foi adquirido e pode ser acessado em: www.guivargas.com
+ 
