@@ -9,7 +9,7 @@ v1.0 - Esta foi uma das primeiras páginas HTML que construí. Como estava no in
 
 v2.0 - Melhorias em relação a boas práticas, identação e estruturação e tags do HTML.
 
-V2.1 - Header e banner responsívos.
+V2.1 - Header e banner responsivos.
 
 v2.2 - Correção dos diretórios.
 
