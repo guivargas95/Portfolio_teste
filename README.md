@@ -17,6 +17,10 @@ v2.3 - Inclusão dos links externos, início da criação do conteúdo principal
 
 
 
-
 A ideia principal do projeto, a princípio, é desenvolver o portfólio no framework Next.js. O domínio já foi adquirido e pode ser acessado em: www.guivargas.com
+
+Obs: Estou desenvolvendo durante meu intervalo de trabalho, nas brechas de horário entre a faculdade e nos fins de semana. Com certeza meu aprendizado seria extremamente mais rápido atuando com profissionais da área. 
+
+
+
  
