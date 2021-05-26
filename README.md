@@ -15,7 +15,7 @@ v2.2 - Correção dos diretórios.
 
 v2.3 - Inclusão dos links externos, início da criação do conteúdo principal.
 
-v2.5 - Inclusão do rodapé da página.
+v2.4 - Inclusão do rodapé da página.
 
 
 
