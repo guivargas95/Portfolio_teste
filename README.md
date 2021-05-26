@@ -15,6 +15,8 @@ v2.2 - Correção dos diretórios.
 
 v2.3 - Inclusão dos links externos, início da criação do conteúdo principal.
 
+v2.5 - Inclusão do rodapé da página.
+
 
 
 A ideia principal do projeto, a princípio, é desenvolver o portfólio no framework Next.js. O domínio já foi adquirido e pode ser acessado em: www.guivargas.com
